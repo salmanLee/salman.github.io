@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Salman&#39;s site</title>
-    <link>https://salmanlee.github.io/</link>
-    <description>Recent content on Salman&#39;s site</description>
+    <title>Notes on Salman&#39;s site</title>
+    <link>https://salmanlee.github.io/notes/</link>
+    <description>Recent content in Notes on Salman&#39;s site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>vvs009@163.com (Salman Lee)</managingEditor>
     <webMaster>vvs009@163.com (Salman Lee)</webMaster>
     <lastBuildDate>Thu, 23 Aug 2018 14:03:41 +0800</lastBuildDate>
     
-	<atom:link href="https://salmanlee.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salmanlee.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -32,30 +32,12 @@
     </item>
     
     <item>
-      <title>Hugo Document</title>
-      <link>https://salmanlee.github.io/links/hugo-document/</link>
-      <pubDate>Thu, 23 Aug 2018 11:38:53 +0800</pubDate>
-      <author>vvs009@163.com (Salman Lee)</author>
-      <guid>https://salmanlee.github.io/links/hugo-document/</guid>
-      <description> hugo document  HUGO is a fast and modern static site generator written in Go, and designed to make website creation fun again.  </description>
-    </item>
-    
-    <item>
       <title>My First Note</title>
       <link>https://salmanlee.github.io/2018/08/my-first-note/</link>
       <pubDate>Thu, 23 Aug 2018 10:44:43 +0800</pubDate>
       <author>vvs009@163.com (Salman Lee)</author>
       <guid>https://salmanlee.github.io/2018/08/my-first-note/</guid>
       <description> haha </description>
-    </item>
-    
-    <item>
-      <title>My First Link</title>
-      <link>https://salmanlee.github.io/links/my-first-link/</link>
-      <pubDate>Thu, 23 Aug 2018 10:33:30 +0800</pubDate>
-      <author>vvs009@163.com (Salman Lee)</author>
-      <guid>https://salmanlee.github.io/links/my-first-link/</guid>
-      <description> hoho </description>
     </item>
     
   </channel>
