@@ -1,16 +1,15 @@
-baseURL = "salmanlee.github.io"
+baseURL = "https://salmanlee.github.io"
 languageCode = "en-us"
-title = "Salman Lee"
+title = "Salman's site"
 theme = "hurock"
 
 [author]
   name = "Salman Lee"
-  email = "vvs009@qq.com"
-  
-  github = "https://github.com/salmanLee"
+  email = "vvs009@163.com"
+  github = "salmanLee/salmanlee.github.io"
 
 [params]
-  Description = "Welcome to Salman's site"
+  Description = "๑•ิ .•ั๑)"
   # Optional
   disqusShortname = ""
   gaID = ""
@@ -20,7 +19,30 @@ theme = "hurock"
 
 # Optional sections:
 [permalinks]
-  posts = "/:year/:month/:filename/"
+  notes = "/:year/:month/:filename/"
 
 [blackfriday]
   plainIdAnchors = true
+
+#////////////////////////////////////////////////////////////////////
+#//                          _ooOoo_                               //
+#//                         o8888888o                              //
+#//                         88" . "88                              //
+#//                         (| ^_^ |)                              //
+#//                         O\  =  /O                              //
+#//                      ____/`---'\____                           //
+#//                    .'  \\|     |//  `.                         //
+#//                   /  \\|||  :  |||//  \                        //
+#//                  /  _||||| -:- |||||-  \                       //
+#//                  |   | \\\  -  /// |   |                       //
+#//                  | \_|  ''\---/''  |   |                       //
+#//                  \  .-\__  `-`  ___/-. /                       //
+#//                ___`. .'  /--.--\  `. . ___                     //
+#//              ."" '<  `.___\_<|>_/___.'  >'"".                  //
+#//            | | :  `- \`.;`\ _ /`;.`/ - ` : | |                 //
+#//            \  \ `-.   \_ __\ /__ _/   .-` /  /                 //
+#//      ========`-.____`-.___\_____/___.-`____.-'========         //
+#//                           `=---='                              //
+#//      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^        //
+#//            佛祖保佑       永不宕机     永无BUG                    //
+#///////////////////////////////////////////////////////////////////
