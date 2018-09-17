@@ -25,10 +25,6 @@ hugo --config release-config.toml
 
 ## deploy github master
 
-package.json add config
-
 ```
-"scripts": {
-        "deploy": "hugo && gh-pages -d public -b master"
-    }
+ yarn deploy
 ```
