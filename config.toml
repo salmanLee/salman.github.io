@@ -1,29 +1,3 @@
-baseURL = "https://salmanlee.github.io"
-languageCode = "en-us"
-title = "Salman's site"
-theme = "hurock"
-
-[author]
-  name = "Salman Lee"
-  email = "vvs009@163.com"
-  github = "salmanLee/salmanlee.github.io"
-
-[params]
-  Description = "๑•ิ .•ั๑)"
-  # Optional
-  disqusShortname = ""
-  gaID = ""
-  highlight_theme = "tomorrow-night"
-  notoc = true
-
-
-# Optional sections:
-[permalinks]
-  notes = "/:year/:month/:filename/"
-
-[blackfriday]
-  plainIdAnchors = true
-
 #////////////////////////////////////////////////////////////////////
 #//                          _ooOoo_                               //
 #//                         o8888888o                              //
@@ -46,3 +20,52 @@ theme = "hurock"
 #//      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^        //
 #//            佛祖保佑       永不宕机     永无BUG                    //
 #///////////////////////////////////////////////////////////////////
+
+baseURL = "http://salmanlee.github.io/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Salman's Blog"
+theme = "dream-plus"
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+pygmentsOptions = "linenos=table"
+
+disqusShortname = "dream-plus"
+
+enableRobotsTXT = true
+
+#Enable Hugo Emoji Conversion
+enableEmoji=true
+
+[params]
+	author = "Salman Lee"
+	description = "Just a blog website of a slob."
+	motto = "I hate self-introduction the most."
+	enableToc = true
+	enableShareCard = true
+
+	favicon = "/img/favicon.png"
+
+  	#Background settings
+	enableColorBG= true
+
+	#Post-displaying Settings
+	enableTags = true
+	enableCategories = true
+
+	customCSS = ["https://cdn.rawgit.com/UtkarshVerma/hugo-dream-plus/ae11561d/exampleSite/static/css/highlight.css"]
+
+	#Cards or posts shown per page
+	itemsPerPage = 4
+
+	#Set whether you're hosting "cards" or "post"
+	contentType = "posts"
+
+	#Enable Twitter Emoji
+	twitterEmoji=true
+
+[social]
+	email = "vvs009@163.com"
+	github = "salmanLee"
+	siteStartYear = 2018
